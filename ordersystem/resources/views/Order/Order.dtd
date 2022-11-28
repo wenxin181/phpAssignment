@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!--
+    TODO define vocabulary identification
+    PUBLIC ID: -//vendor//vocabulary//EN
+    SYSTEM ID: http://server/path/Order.dtd
+
+-->
+
+<!--
+    An example how to use this DTD from your XML document:
+
+    <?xml version="1.0"?>
+
+    <!DOCTYPE Order SYSTEM "Order.dtd">
+
+    <Order>
+    ...
+    </Order>
+-->
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT Order (order)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT order (custId|orderDate|totalAmount|shipName|shipPhone|shipAddress)*>
+<!ATTLIST order
+    id CDATA #IMPLIED
+  >
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT custId (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT orderDate (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT totalAmount (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT shipName (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT shipPhone (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT shipAddress (#PCDATA)>

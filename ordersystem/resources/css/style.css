@@ -1,0 +1,50 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.navbar-brand > a{
+    color:orange;
+    font-weight: bold;
+    font-size: 180%;
+}
+
+.navbar-brand > a:hover{
+    color:orange;
+    font-weight: bold;
+    font-size: 180%;
+}
+
+
+.nav-item {
+    padding: 0px 40px 0px 40px;
+}
+
+.nav-item > a{
+    color:black;
+}
+
+.nav-item > a:hover{
+    color:orange;
+}
+
+#login,
+#signup {
+    color: black;
+    font-size: 80%;
+}
+
+#login:hover,
+#signup:hover {
+    color: orange;
+}
+
+.footer-social > a{
+     color:black;
+     margin:0px 10px 0px 10px;
+     
+}
+
+.footer-social > a:hover{
+     color:orange;
+     
+}

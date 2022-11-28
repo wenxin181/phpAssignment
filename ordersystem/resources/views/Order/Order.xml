@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xml" href="Order.xsl"?>
+<Order>
+    <order id="1">
+        <custId>1001</custId>
+        <orderDate>2022-04-03</orderDate>
+        <totalAmount>300</totalAmount>
+        <shipName>Mei Ling</shipName>
+        <shipPhone>012-3344567</shipPhone>
+        <shipAddress>No.5, Jalan KK</shipAddress>
+    </order>
+    <order id="2">
+        <custId>1003</custId>
+        <orderDate>2022-04-04</orderDate>
+        <totalAmount>280</totalAmount>
+        <shipName>Xiao Lao</shipName>
+        <shipPhone>011-2234567</shipPhone>
+        <shipAddress>No.31, Jalan BB</shipAddress>
+    </order>
+    <order id="3">
+        <custId>1006</custId>
+        <orderDate>2022-04-05</orderDate>
+        <totalAmount>1125</totalAmount>
+        <shipName>Bao Zi</shipName>
+        <shipPhone>013-4567890</shipPhone>
+        <shipAddress>No.1, Jalan AAA</shipAddress>
+    </order>
+    <order id="4">
+        <custId>1005</custId>
+        <orderDate>2022-04-06</orderDate>
+        <totalAmount>520</totalAmount>
+        <shipName>Jia Bao</shipName>
+        <shipPhone>016-1215758</shipPhone>
+        <shipAddress>No.1, Jalan ABC</shipAddress>
+    </order>
+    <order id="5">
+        <custId>1002</custId>
+        <orderDate>2022-04-07</orderDate>
+        <totalAmount>300</totalAmount>
+        <shipName>Lily</shipName>
+        <shipPhone>019-9114382</shipPhone>
+        <shipAddress>No.8, Jalan TK</shipAddress>
+    </order>
+    
+</Order>

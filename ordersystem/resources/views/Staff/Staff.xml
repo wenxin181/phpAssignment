@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xml" href="Staff.xsl"?>
+<Staff>
+    <staff id="2001">
+        <staffName>Cydia</staffName>
+        <staffEmail>cydia@gmail.com</staffEmail>
+        <staffPosition>Store Manager</staffPosition>
+    </staff>
+    <staff id="2002">
+        <staffName>Wei Li</staffName>
+        <staffEmail>weili@gmail.com</staffEmail>
+        <staffPosition>Admin</staffPosition>
+    </staff>
+    <staff id="2003">
+        <staffName>Peeraga</staffName>
+        <staffEmail>peeraga@gmail.com</staffEmail>
+        <staffPosition>Store Manager</staffPosition>
+    </staff>
+    <staff id="2004">
+        <staffName>Siti Amelia</staffName>
+        <staffEmail>siti@gmail.com</staffEmail>
+        <staffPosition>Inventory Control Specialist</staffPosition>
+    </staff>
+</Staff>
+

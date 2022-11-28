@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xml" href="Promotion.xsl"?>
+<Promotion>
+    <promotion id="1">
+        <promotionId>PR-Bottom</promotionId>
+        <promotionRate>15</promotionRate>
+        <promotionDescription>
+            Bottom Promotions
+        </promotionDescription>
+    </promotion>
+    <promotion id="2">
+        <promotionId>PR-Top</promotionId>
+        <promotionRate>10</promotionRate>
+        <promotionDescription>
+            Top Promotions
+        </promotionDescription>
+    </promotion>
+    <promotion id="3">
+        <promotionId>PR-Jacket</promotionId>
+        <promotionRate>10</promotionRate>
+        <promotionDescription>
+            Jacket Promotions
+        </promotionDescription>
+    </promotion>
+</Promotion>
+

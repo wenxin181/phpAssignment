@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xml" href="Product.xsl"?>
+<Products>
+    <product id="9001">
+        <productName>Polo Shirt</productName>
+        <productPrice>RM 59.90</productPrice>
+        <productDetail>This is from Tommy Hilfiger product</productDetail>
+        <quantity>50</quantity>                
+        <datePublish>3/4/2022</datePublish>
+        <colour>Black</colour>
+        <categoryName>Top</categoryName>
+    </product>
+    <product id="9002">
+        <productName>Normal T-Shirt</productName>
+        <productPrice>RM 29.90</productPrice>
+        <productDetail>This is made from H&amp;M</productDetail>
+        <quantity>70</quantity>                
+        <datePublish>5/9/2021</datePublish>
+        <colour>Dark Blue</colour>
+        <categoryName>Top</categoryName>
+    </product>
+    <product id="9003">
+        <productName>Shirt</productName>
+        <productPrice>RM 79.90</productPrice>
+        <productDetail>This product come from cotton on</productDetail>
+        <quantity>60</quantity>                
+        <datePublish>9/3/2021</datePublish>
+        <colour>Light Blue</colour>
+        <categoryName>Top</categoryName>
+    </product>
+    <product id="9004">
+        <productName>Jeans</productName>
+        <productPrice>RM 89.90</productPrice>
+        <productDetail>This product from Levi's</productDetail>
+        <quantity>30</quantity>                
+        <datePublish>8/1/2021</datePublish>
+        <colour>White</colour>
+        <categoryName>Bottom</categoryName>
+    </product>
+    <product id="9005">
+        <productName>Short Skirt</productName>
+        <productPrice>RM 39.90</productPrice>
+        <productDetail>This product from Zara</productDetail>
+        <quantity>50</quantity>                
+        <datePublish>31/12/2020</datePublish>
+        <colour>Pink</colour>
+        <categoryName>Bottom</categoryName>
+    </product>
+</Products>
